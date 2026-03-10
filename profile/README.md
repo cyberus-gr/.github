@@ -36,9 +36,6 @@ Whether you're a fellow researcher, a hiring manager, or just curious — everyt
 |---|---|---|---|
 | [🔍 integrity-checker](https://github.com/cyberus-gr/integrity-checker) | File & system integrity verification using SHA-256 hash validation | ![Live](https://img.shields.io/badge/-Live-68d391?style=flat-square) | `Python` `CLI` |
 | [🦠 malware-scanner](https://github.com/cyberus-gr/malware-scanner) | Lightweight static & behavioral malware detection with YARA support | ![Live](https://img.shields.io/badge/-Live-68d391?style=flat-square) | `Python` `YARA` |
-| [🛡️ cloneacronis-safesearch](https://github.com/cyberus-gr/cloneacronis-safesearch) | All-in-one VPN + EDR + Backup open platform | ![WIP](https://img.shields.io/badge/-WIP-f6ad55?style=flat-square) | `Python` `EDR` `VPN` |
-| [🤖 ai-veeam-agent](https://github.com/cyberus-gr/ai-veeam-agent) | AI agent for autonomous Veeam error diagnosis & remediation | ![WIP](https://img.shields.io/badge/-WIP-f6ad55?style=flat-square) | `Python` `LLM` |
-| [🔐 ai-security-agent](https://github.com/cyberus-gr/ai-security-agent) | Intelligent SOC triage assistant with alert correlation | ![WIP](https://img.shields.io/badge/-WIP-f6ad55?style=flat-square) | `Python` `LLM` `SOC` |
 
 ---
 
@@ -63,7 +60,6 @@ cyberus.gr/blog
 | Topic | Area | Phase |
 |---|---|---|
 | All-in-One Security Platform (VPN + EDR + Backup) | Cloud Security | 🔄 In Progress |
-| AI Agent — Veeam Troubleshooting | AI in Cybersecurity | 🔄 In Progress |
 | AI Agent — SOC Incident Triage | Security Analysis | 🔄 In Progress |
 | Malware Static Analysis Methodology | Security Tools | 🔄 In Progress |
 
