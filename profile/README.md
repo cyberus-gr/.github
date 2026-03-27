@@ -37,8 +37,8 @@ Whether you're a fellow researcher, a hiring manager, or just curious — everyt
 |---|---|---|---|
 | [🔍 integrity-checker](https://github.com/cyberus-gr/integrity-checker) | File & system integrity verification using SHA-256 hash validation | ![Released](https://img.shields.io/badge/-Released-68d391?style=flat-square) | `Python` `CLI` |
 | [🦠 malware-scanner](https://github.com/cyberus-gr/malware-scanner) | Lightweight static & behavioral malware detection with YARA support | ![Released](https://img.shields.io/badge/-Released-68d391?style=flat-square) | `Python` `YARA` |
-| [🛡️ cloneacronis-safesearch](https://github.com/cyberus-gr/cloneacronis-safesearch) | All-in-one VPN + EDR + Backup open platform | ![Coming Soon](https://img.shields.io/badge/-Coming_Soon-f6ad55?style=flat-square) | `Python` `EDR` `VPN` |
-| [🤖 ai-veeam-agent](https://github.com/cyberus-gr/ai-veeam-agent) | AI agent for autonomous Veeam error diagnosis & remediation | ![Coming Soon](https://img.shields.io/badge/-Coming_Soon-f6ad55?style=flat-square) | `Python` `LLM` |
+| [🔐 AION](https://github.com/cyberus-gr/AION) | Password Analyzer · Smart Generator · Email Breach Checker | ![Released](https://img.shields.io/badge/-Released-68d391?style=flat-square) | `Javascript` `Python` |
+| [🛡️ Allin0](https://github.com/cyberus-gr/All-In-One) | All-in-one VPN + EDR + Backup open platform | ![Coming Soon](https://img.shields.io/badge/-Coming_Soon-f6ad55?style=flat-square) | `Python` `EDR` `VPN` |
 | [🔐 ai-security-agent](https://github.com/cyberus-gr/ai-security-agent) | Intelligent SOC triage assistant with alert correlation | ![Coming Soon](https://img.shields.io/badge/-Coming_Soon-f6ad55?style=flat-square) | `Python` `LLM` `SOC` |
 
 → Full list at **[cyberus.gr/projects](https://cyberus.gr/projects)**
